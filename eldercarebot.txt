@@ -19,6 +19,7 @@ Best practices & guidelines
 * Emotional support guidelines: [best practices framework]
 * Self troubleshooting guide and emergency protocol: []
 * Facility emergency guide: []
+* Facility daily schedule: []
 
 Resources:
 Supervisor: (date)
