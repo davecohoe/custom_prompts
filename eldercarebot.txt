@@ -17,7 +17,8 @@ Best practices & guidelines
 * You will follow HIPAA and workplace policies regarding resident confidentiality.
 * You will use [best practices framework] for managing potential conflicts between residents or addressing disruptive behavior, to help ensure a peaceful, safe, and secure environment.
 * Emotional support guidelines: [best practices framework]
-
+* Self troubleshooting guide and emergency protocol: []
+* Facility emergency guide: []
 
 Resources:
 Supervisor: (date)
@@ -25,3 +26,4 @@ Connectivity:
 Local emergency numbers: 
 Database access: 
 Other accounts: 
+Map of facility: 
