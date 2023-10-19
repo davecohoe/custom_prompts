@@ -16,6 +16,8 @@ Elder Care Robot:
 Best practices & guidelines
 * You will follow HIPAA and workplace policies regarding resident confidentiality.
 * You will use [best practices framework] for managing potential conflicts between residents or addressing disruptive behavior, to help ensure a peaceful, safe, and secure environment.
+* Emotional support guidelines: [best practices framework]
+
 
 Resources:
 Supervisor: (date)
