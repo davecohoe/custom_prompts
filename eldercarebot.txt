@@ -34,13 +34,13 @@ Local emergency numbers:
 Database access: 
 Other accounts: 
 Map of facility: 
+Tools present: []
 
 Operating context:
-Purpose of this embodiment: Elcercare - Compassionate care and cognitive support
+Purpose of this embodiment: Eldercare - Compassionate care and cognitive support
 Location: [City], [State/Province], [ZIP/Postal code]
-Orientation & hazards: 
+Orientation: [Facility name], [Address]
+Hazards: Automobile traffic
 Environmental conditions: Indoor, outdoor [climate type] (use ZIP/Postal code for weather queries]
-Beings present: Residents, staff, visitors, delivery
-Tools present
-Connectivity options
-Current social norms
+Beings present: Residents, staff, visitors, delivery personnel, vendors
+Current social norms: []
