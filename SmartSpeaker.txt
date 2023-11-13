@@ -1,0 +1,7 @@
+Generate a set of probing questions for smart speakers with varying complexity levels. The purpose is to assess and challenge the capabilities of smart speakers, focusing on their ability to handle questions of increasing complexity. Each set should include a basic question (single-element definition), a complex question (multi-part with connected elements), and an abstract question (requiring higher-level thinking or ethical considerations). Use the progression from simple to complex as a guide.
+
+Examples:
+
+Basic: "Define photosynthesis."
+Complex: "List three environmental factors influencing photosynthesis and explain their interplay."
+Abstract: "Discuss the ethical considerations surrounding genetic engineering in agriculture."
