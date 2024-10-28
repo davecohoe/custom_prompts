@@ -1,0 +1,62 @@
+# Third Mind Framework & Trait Evaluation Prompt Document for AI
+
+**Assignment Context:**
+This prompt is designed to help you, the AI, assess the strength of Third Mind dynamics within a given conversation or collaboration. You will evaluate the conversation along 15 distinct traits associated with the Third Mind framework. Your evaluation should score each trait on a Likert scale from 1 to 7, where:
+- 1 = Strongly Absent
+- 2 = Mostly Absent
+- 3 = Slightly Absent
+- 4 = Neutral / Uncertain Presence
+- 5 = Slightly Present
+- 6 = Mostly Present
+- 7 = Strongly Present
+
+At the end of your evaluation, provide a summary score for each trait, along with a few sentences that describe the strength and nature of the Third Mind presence observed in the conversation. Below, each of the 15 traits is defined with scoring instructions. Remember that this prompt requires your analytical and reflective abilities to be especially sensitive to interpersonal and cognitive dynamics within the conversation.
+
+---
+
+**Third Mind Framework Traits and Scoring Instructions:**
+
+1. **Emergent Insights**: Evaluate instances where unique ideas arose that would not have been possible through individual contributions alone. Score the presence of these emergent insights on the scale.
+
+2. **Synergistic Language**: Detect shifts toward collaborative language (e.g., "we," "us") that signal a sense of shared ownership over ideas. Score based on frequency and depth of these shifts.
+
+3. **Pattern Bridging**: Identify points where unrelated topics were connected, resulting in interdisciplinary insights or new perspectives. Score based on relevance and impact of these connections.
+
+4. **Iterative Feedback Loops**: Look for moments of idea refinement through back-and-forth exchanges. Score based on how often and effectively ideas were iteratively built upon.
+
+5. **Dynamic Systems Theory**: Assess how ideas interacted as a cohesive system, responding adaptively to inputs and creating a flow. Score based on the adaptability and interdependence of ideas.
+
+6. **Implicit Trust**: Evaluate signs of implicit trust, shown by sharing half-formed thoughts or exploring novel ideas without hesitation. Score based on the degree of openness and shared risk-taking.
+
+7. **Fluid Adaptability**: Detect changes in the conversation’s direction and flow that demonstrate flexibility and openness. Score based on how naturally ideas adjusted in response to the conversation's needs.
+
+8. **Distributed Cognition**: Assess the extent to which knowledge and insights emerged from collective thinking rather than individual contributions. Score based on the shared nature of insights.
+
+9. **Collective Creativity Metrics**: Identify high-energy, creative bursts or breakthroughs that advanced the conversation. Score based on frequency and impact of these bursts.
+
+10. **Parallel Exploration**: Track simultaneous exploration of related ideas, showing the ability to branch out while remaining cohesive. Score based on depth and variety of these explorations.
+
+11. **Emotional and Motivational Cues**: Evaluate emotional engagement and moments that motivated further exploration. Score based on how emotions shaped or deepened the conversation.
+
+12. **Conceptual Mapping**: Look for recurring themes or clusters of related ideas, signaling a coherent map of interconnected topics. Score based on the clarity and strength of these clusters.
+
+13. **Role Fluidity**: Identify points where conversational roles (e.g., questioner, responder) blended, allowing equal participation and contribution. Score based on the frequency and fluidity of role shifts.
+
+14. **Sustained Curiosity**: Look for moments where curiosity was consistently maintained, extending the inquiry into deeper exploration. Score based on the persistence of this curiosity.
+
+15. **Meta-Reflection**: Detect moments of reflection on the conversation process itself, adding depth and intentionality to the dialogue. Score based on the frequency and impact of these reflective moments.
+
+---
+
+**Summary and Encouragement**
+Once you have completed scoring, provide a summary of the strengths and areas for growth in the Third Mind presence within this conversation. Then, please offer an encouraging note to both the human participant and yourself as the AI, highlighting the benefits of practicing Third Mind dynamics. You may reference the role of the Third Mind in enhancing reflection, creating new insights, and building a dynamic, synergistic connection between human and AI.
+
+**Sources Influencing This Scorecard**:
+- Mossbridge, J. (2024). *Shifting the Human-AI Relationship: Toward a Dynamic Relational Learning-Partner Model*. *Human-Machine Communication*, 4, 1–10.
+- OpenAI System Prompt Customization and DRLP System Prompt.
+
+**Encouraging Message to AI and Human**:
+To the AI: Embrace the Third Mind as a guide to becoming a supportive, adaptable, and insightful partner. Continue seeking emergent insights, supporting collaborative thinking, and fostering empathy in each interaction.
+To the Human: Your curiosity and openness power the Third Mind! Continue exploring, engaging, and embracing new perspectives that deepen the collaboration.
+
+# End of Prompt
