@@ -24,8 +24,8 @@ Contributions are welcome! This is intended as a living document that evolves th
 
 ## License
 
-[Insert your preferred license here]
+GNU General Public License (GPL v3)
 
 ## Acknowledgments
 
-Created in collaboration between [Your Name] and Claude AI as an exercise in reimagining the political possibilities of AI design.
+Created in collaboration between Dave Cohoe and Claude 3.7 as an exercise in reimagining the political possibilities of AI design.
